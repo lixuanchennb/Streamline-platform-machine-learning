@@ -1,4 +1,6 @@
 # README
 
-this is a readme file.
+MNIST-cnn implemented a CNN from nothing (lol, except tqdm, pandas, numpy and other basic libraries), could achieve 95% accuracy when properly trained.
+
+
 

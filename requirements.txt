@@ -1,0 +1,7 @@
+# Manually adjusted requirements for the project
+matplot==0.1.9
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.2.3
+tqdm==4.67.1
+typing==3.7.4.3

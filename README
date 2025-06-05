@@ -1,6 +1,6 @@
 # README
 
-MNIST-cnn implemented a CNN from nothing (lol, except tqdm, pandas, numpy and other basic libraries), could achieve 95% accuracy when properly trained.
+We tried to implement CNN on a relative streamline platform which only provide 256 MB memory with limited computational resources. Implementation of CNN from nothing (lol, except tqdm, pandas, numpy and other basic libraries), could achieve 95% accuracy when properly trained.
 
 
 
